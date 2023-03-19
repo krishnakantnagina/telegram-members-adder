@@ -108,8 +108,6 @@ python add.py
 
 Sometimes users may not get added at all, this may be because the account is probably limited or you entered a channel. Try with another account. 
 
-## 💰 Support Me
-
 # Warning
 
 * This tool is official and completely free to use. Do not buy if anyone tries to sell by copying script
