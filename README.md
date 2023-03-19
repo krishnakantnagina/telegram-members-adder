@@ -110,9 +110,6 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 ## 💰 Support Me
 
-<a href="https://ko-fi.com/saifalisew1508" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="saifalisew1508" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
-<a href="https://www.paypal.me/saifalisew1508" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="saifalisew1508" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
-
 # Warning
 
 * This tool is official and completely free to use. Do not buy if anyone tries to sell by copying script
